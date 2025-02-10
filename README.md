@@ -16,4 +16,4 @@
 - 25.02.04 Tue - 🍥 네트워크 기본 강의 복습 및 패킷 트레이서 실습 ([🔗](https://github.com/100-hours-a-week/donen-til/blob/main/Feb/2025-02-04.md))
 - 25.02.05 Tue - 🍥 패킷 트레이서 실습 ([🔗](https://github.com/100-hours-a-week/donen-til/blob/main/Feb/2025-02-05.md))
 - 25.02.06 Thu - 🍥 네트워크 보안 강의 및 패킷 트레이서 실습 ([🔗](https://github.com/100-hours-a-week/donen-til/blob/main/Feb/2025-02-06.md))
-- 25.02.07 Thu - 🍥 Kali 환경에서 해킹을 통한 프로토콜 심화 분석 ([🔗](https://github.com/100-hours-a-week/donen-til/blob/main/Feb/2025-02-07.md))
+- 25.02.07 Fri - 🍥 Kali 환경에서 해킹을 통한 프로토콜 심화 분석 ([🔗](https://github.com/100-hours-a-week/donen-til/blob/main/Feb/2025-02-07.md))
