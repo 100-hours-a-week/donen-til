@@ -24,3 +24,4 @@
 - 25.02.11 Tue - 🫧 크램폴린 IDE 사용 방법 특강 및 실습 ([🔗](https://github.com/100-hours-a-week/donen-til/blob/main/Feb/2025-02-11.md))
 - 25.02.12 Wed - 🍥 도커 기초 실습 및 도커 CI/CD 강의 ([🔗](https://github.com/100-hours-a-week/donen-til/blob/main/Feb/2025-02-12.md))
 - 25.02.13 Thu - 🍥 도커 기초 실습 및 도커 CI/CD 강의 복습 ([🔗](https://github.com/100-hours-a-week/donen-til/blob/main/Feb/2025-02-13.md))
+- 25.02.14 Fri - 🍥 도커 gitlab 구축 및 gitlab-runner 연동 ([🔗](https://github.com/100-hours-a-week/donen-til/blob/main/Feb/2025-02-14.md))
