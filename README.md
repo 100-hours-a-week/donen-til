@@ -29,8 +29,8 @@
 ### [Feb W3 + W4] 쿠버네티스
 
 - 25.02.17 Mon - 🍎 쿠버네티스 기초 강의 및 정보보안기사 필기 준비 ([🔗](https://github.com/100-hours-a-week/donen-til/blob/main/Feb/2025-02-17.md))
-- 25.02.18 Feb - 🍡 정보보안기사 필기 ([🔗](https://github.com/100-hours-a-week/donen-til/blob/main/Feb/2025-02-18.md))
-- 25.02.19 Web - 🍅 쿠버네티스 기초 복습 및 실습 ([🔗](https://github.com/100-hours-a-week/donen-til/blob/main/Feb/2025-02-19.md))
+- 25.02.18 Tue - 🍡 정보보안기사 필기 ([🔗](https://github.com/100-hours-a-week/donen-til/blob/main/Feb/2025-02-18.md))
+- 25.02.19 Wed - 🍅 쿠버네티스 기초 복습 및 실습 ([🔗](https://github.com/100-hours-a-week/donen-til/blob/main/Feb/2025-02-19.md))
 - 25.02.20 Thu - 🍎 쿠버네티스 실습 ([🔗](https://github.com/100-hours-a-week/donen-til/blob/main/Feb/2025-02-20.md))
 - 25.02.21 Fri - 🌺 휴가 (졸업식)
 
