@@ -40,7 +40,7 @@
 - 25.02.25 Tue - 🍮 아이디어톤 및 해커톤 팀 빌딩 ([🔗](https://github.com/100-hours-a-week/donen-til/blob/main/Feb/2025-02-25.md))
 - 25.02.26 Wed - 🍮 빵교 기획 구체화 및 기초적인 UI/UX 구성 ([🔗](https://github.com/100-hours-a-week/donen-til/blob/main/Feb/2025-02-26.md))
 - 25.02.27 Thu - 🍮 프론트엔드 UI/UX 마무리 및 클라우드 배포 ([🔗](https://github.com/100-hours-a-week/donen-til/blob/main/Feb/2025-02-27.md))
-- 25.02.28 Fri - 🍮 AI 백-프론트 연동 및 클라우드 보안 배포, 발표
+- 25.02.28 Fri - 🍮 AI 백-프론트 연동 및 클라우드 보안 배포, 발표 ([🔗](https://github.com/100-hours-a-week/donen-til/blob/main/Feb/2025-02-28.md))
 
 ### [Mar W1 + W6] AWS
 
