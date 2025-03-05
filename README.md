@@ -47,3 +47,4 @@
 ### [Mar W1 + W6] AWS
 
 - 25.03.04 Tue - 🍥 클라우드 웹 3티어 구성 및 실습 ([🔗](https://github.com/100-hours-a-week/donen-til/blob/main/Mar/2025-03-04.md))
+- 25.03.05 Wed - 🍥 클라우드 웹 3티어 구성 및 gitlab 실습 ([🔗](https://github.com/100-hours-a-week/donen-til/blob/main/Mar/2025-03-05.md))
