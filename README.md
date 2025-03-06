@@ -48,3 +48,4 @@
 
 - 25.03.04 Tue - 🍥 클라우드 웹 3티어 구성 및 실습 ([🔗](https://github.com/100-hours-a-week/donen-til/blob/main/Mar/2025-03-04.md))
 - 25.03.05 Wed - 🍥 클라우드 웹 3티어 구성 및 gitlab 실습 ([🔗](https://github.com/100-hours-a-week/donen-til/blob/main/Mar/2025-03-05.md))
+- 25.03.06 Thu - 🍥 ALB 생성 및 도메인 CNAME 연결 + SSL 인증 ([🔗](https://github.com/100-hours-a-week/donen-til/blob/main/Mar/2025-03-06.md))
