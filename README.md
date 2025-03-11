@@ -50,3 +50,7 @@
 - 25.03.05 Wed - 🍥 클라우드 웹 3티어 구성 및 gitlab 실습 ([🔗](https://github.com/100-hours-a-week/donen-til/blob/main/Mar/2025-03-05.md))
 - 25.03.06 Thu - 🍥 ALB 생성 및 도메인 CNAME 연결 + SSL 인증 ([🔗](https://github.com/100-hours-a-week/donen-til/blob/main/Mar/2025-03-06.md))
 - 25.03.07 Fri - ✨ 코딩 테스트 및 네트워킹 파티 ([🔗](https://github.com/100-hours-a-week/donen-til/blob/main/Mar/2025-03-07.md))
+
+### [Mar W2 + W7] AWS (2)
+
+- 
