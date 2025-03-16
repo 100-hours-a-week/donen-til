@@ -55,3 +55,6 @@
 
 - 25.03.10 Mon - 🍥 AWS 구성 복습 - 웹 3티어 구성 ([🔗](https://github.com/100-hours-a-week/donen-til/blob/main/Mar/2025-03-10.md))
 - 25.03.11 Tue - 🍥 Dev, Prod 구분 3티어 구성 ([🔗](https://github.com/100-hours-a-week/donen-til/blob/main/Mar/2025-03-11.md))
+- 25.03.12 Wed - 🍙 휴강
+- 25.03.13 Thu - 🍙 휴강
+- 25.03.14 Fri - 🍙 휴강
