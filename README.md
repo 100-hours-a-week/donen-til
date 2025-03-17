@@ -58,3 +58,7 @@
 - 25.03.12 Wed - 🍙 휴강
 - 25.03.13 Thu - 🍙 휴강
 - 25.03.14 Fri - 🍙 휴강
+
+### [Mar W3 + W8] Terraform
+
+- 25.03.17 Mon - 📓 마무리 및 입사 지원 ([🔗](https://github.com/100-hours-a-week/donen-til/blob/main/Mar/2025-03-17.md))
