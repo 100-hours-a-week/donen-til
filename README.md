@@ -62,3 +62,4 @@
 ### [Mar W3 + W8] Terraform
 
 - 25.03.17 Mon - 📓 마무리 및 입사 지원 ([🔗](https://github.com/100-hours-a-week/donen-til/blob/main/Mar/2025-03-17.md))
+- 25.03.18 Tue - 🍥 오프라인 첫 출근, Terraform 이론 ([🔗](https://github.com/100-hours-a-week/donen-til/blob/main/Mar/2025-03-18.md))
